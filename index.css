@@ -1,5 +1,5 @@
 .jumbotron{
-  margin-top:1rem;
+  margin-top:5rem;
 }
 
 body {
@@ -8,12 +8,10 @@ body {
 
 .card-deck{
   margin-bottom:3rem;
-  padding-bottom:3rem;
+  /* padding-bottom:3rem; */
 }
 
 
-#welcome {padding-top:50px; height:500px;}
-#basic-info {padding-top:50px;height:500px;}
 #section2 {padding-top:50px;height:500px;background-color: #673ab7;}
 #section3 {padding-top:50px;height:500px;background-color: #ff9800;}
 #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
