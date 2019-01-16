@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+}
+
 .jumbotron{
   margin-top:5rem;
 }
@@ -29,6 +33,7 @@ a:hover{
 #pokeratehub{
   margin-top:5rem;
 }
+
 
 #atam {
   margin-top:5rem;
