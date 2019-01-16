@@ -18,28 +18,12 @@ a:hover{
   margin-bottom:3rem;
 }
 
-#profile{
-  margin-top:5rem;
-}
 
-#hobby{
-  margin-top:5rem;
-}
-
-#programming {
-  margin-top:5rem;
-}
-
-#pokeratehub{
-  margin-top:5rem;
-}
-
-
-#atam {
-  margin-top:5rem;
-}
-
-#links{
+section{
   margin-top:5rem;
   margin-bottom:5rem;
+  display: block;
+  padding-top: 70px;
+  margin-top: -70px;
 }
+
