@@ -2,8 +2,12 @@
   margin-top:5rem;
 }
 
-body {
-  position: relative;
+a {
+  color: #42b983;
+}
+
+a:hover{
+  color: #008080;
 }
 
 .card-deck{
